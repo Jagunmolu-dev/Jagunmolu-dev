@@ -1,7 +1,7 @@
 Hi there, Welcome to my Profile Page! I am glad you made it this far... 👋 <br>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img src= "https://github-readme-stats.vercel.app/api?username=Jagunmolu-dev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
+-->
 **Jagunmolu-dev/Jagunmolu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
