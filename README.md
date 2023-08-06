@@ -10,8 +10,8 @@ I have worked on more than a few Machine learning projects, both individually an
 I enjoy working with data and discovering valuable insights that help solve problems for businesses and other types of organizations.<br>
 I also love programming and I am enhancing my skills in Python and SQL (for database design, modeling, development, and administration). <br>  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-![image](https://github.com/Jagunmolu-dev/Jagunmolu-dev/assets/67484584/fc027890-3109-4422-aab4-0161af33f5e1)
 
+![1728956](https://github.com/Jagunmolu-dev/Jagunmolu-dev/assets/67484584/e4b6e1c2-ef06-4580-a6f7-d5525a86038a)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
